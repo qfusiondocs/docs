@@ -4,7 +4,7 @@ module.exports = {
   markdown: {
     lineNumbers: true,
   },
-  base: "/docs/",
+  base: '/docs/',
   theme: 'antdocs',
   themeConfig: {
     nav: [
@@ -14,7 +14,7 @@ module.exports = {
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/qfusiondocs/qfusiondocs.github.io',
+        link: 'https://github.com/qfusiondocs/docs',
       },
     ],
     sidebar: [
@@ -37,7 +37,7 @@ module.exports = {
           '/document/data-fetch',
           '/document/technology-selection-and-restraint',
         ],
-      }
+      },
     ],
     lastUpdated: '上次更新时间',
   },
