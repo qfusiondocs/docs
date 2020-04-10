@@ -23,6 +23,7 @@ module.exports = {
         collapsable: false,
         children: [
           '/document/',
+          '/document/test',
           '/document/browser-compatibility',
           '/document/html-and-static-assets',
           '/document/css',
