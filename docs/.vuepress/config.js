@@ -37,6 +37,7 @@ module.exports = {
           '/document/unittest',
           '/document/data-fetch',
           '/document/technology-selection-and-restraint',
+          '/document/产品简介'
         ],
       },
     ],
